@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1039423732065",
+    "project_id": "expense-calculator-e1da6",
+    "storage_bucket": "expense-calculator-e1da6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039423732065:android:78ee560b27a7f3fbb36d20",
+        "android_client_info": {
+          "package_name": "com.calculator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtv35YOZzsmJi8LTtKlCPt5mKxn4v4bdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
